@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbpXEWO9cCUuOpnHFMgBaWgAAAAACAAAAAAAQZgAAAAEAACAAAACEnOBxPnO0G8L8Zfjd78VaWj7HbdGzoHYG9M0wALJk/gAAAAAOgAAAAAIAACAAAACwB66OvISmOGbwoAJjDDTM+Dg8nQjXe/3L/J9OU06K34AAAAC5PWQsZ44+lQQc1f5VQijkC3L6b8MEleSMtU4+cHR83uxUJgnBIwU5XN2PqLXQ5GgQ4/6YAO9ndS2pnukSdiBMTCLxxk/vMCnSB8k4tQpOKgqIwveXLUTU3hKHTgMpMbWKoqvvsYM+50eRrx/xxEV5TaaIwwD4Lkcklr5bdNu1JUAAAADvQqgPRXMLy2jZwgQIxHtqmpC/qNidNVUzICaZNeROesQYfUumwx1/uuSxbivbmfqtwPS2zDOqVSTRlVUvNgkP</EncryptedPassword>
+    <History>True|2022-02-18T18:30:33.4667968Z;True|2022-02-17T16:01:50.7880859-03:00;True|2022-02-11T15:42:22.2402343-03:00;True|2022-02-10T19:20:06.0195312-03:00;False|2022-02-10T19:12:38.7548828-03:00;False|2022-02-10T19:10:47.3906250-03:00;True|2022-02-10T18:43:15.9687500-03:00;True|2022-02-10T18:12:44.8330078-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="defaultConnection">
+      <Value>Data Source=54.207.96.128%3bInitial Catalog=bootcamp%3bUser ID=guillermo.britos%3bPassword=kdsoft%242022</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

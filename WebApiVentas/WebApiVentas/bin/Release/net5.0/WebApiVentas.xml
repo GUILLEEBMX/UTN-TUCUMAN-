@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiVentas</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiVentas.Controllers.V1.ArticulosController.Get">
+            <summary>
+            Obtiene un listado de artículos.
+            </summary>
+            Las propiedades de los artículos estan acotadas a las requeridas por el modelo.
+            <returns></returns>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.ArticulosController.GetxID(System.Int32)">
+            <summary>
+            Obtiene un artículo por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Devuelve el objeto solicitado o ID no encontrado.</response>        
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.ArticulosController.Post(WebApiVentas.DTOs.ArticuloCreacionDTO)">
+            <summary>
+            Crea un nuevo artículo en la BD.
+            </summary>
+            <remarks>
+            Se solicitan los campos requeridos por el modelo.
+            </remarks>
+            <param name="articulocreacionDTO">Objeto a crear en la BD.</param>            
+            <response code="201">Created. Objeto correctamente creado en la BD.</response>        
+            <response code="400">BadRequest. No se ha creado el objeto en la BD. Formato del objeto incorrecto.</response>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.ArticulosController.Put(WebApiVentas.DTOs.ArticuloPutDTO,System.Int32)">
+            <summary>
+            Actualiza un artículo de la BD.
+            </summary>
+            <remarks>
+            Actualiza el artículo segun ID
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Resultado de busqueda ID.</response> 
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.ArticulosController.Delete(System.Int32)">
+            <summary>
+            Borra un artículo de la BD.
+            </summary>
+            <remarks>
+            Borra el artículo indicado en el ID
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Resultado de busqueda ID.</response> 
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.DetallesController.Get(System.Int32)">
+            <summary>
+            Obtiene detalles de una venta por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.DetallesController.GetxID(System.Int32,System.Int32)">
+            <summary>
+            Obtiene un detalle mediante su Id y el Id de venta.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.DetallesController.Post(WebApiVentas.DTOs.DetalleCreacionDTO,System.Int32)">
+            <summary>
+            Crea un nuevo detalle según el Id de Venta ingresado.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.DetallesController.Put(WebApiVentas.DTOs.DetallePutDTO,System.Int32,System.Int32)">
+            <summary>
+            Actualiza un detalle de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Actualiza detalle de venta según ID.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.DetallesController.Delete(System.Int32,System.Int32)">
+            <summary>
+            Borra un detalle de la BD según el Id de venta y de Id de detalle ingresados.
+            </summary>
+            <remarks>
+            Borra el detalle según el ID ingresado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.PersonasController.Get(WebApiVentas.DTOs.PaginacionDTO)">
+            <summary>
+            Obtiene un listado de personas
+            </summary>
+            Las propiedades de las personas estan acotadas a las requeridas por el modelo
+            <returns></returns>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.PersonasController.GetId(System.Int32)">
+            <summary>
+            Obtiene una persona por su ID.
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <param name="id">Id de persona.</param>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.PersonasController.Post(WebApiVentas.DTOs.PersonaCreacionDTO)">
+            <summary>
+            Crea una persona en la BD.
+            </summary>
+            <remarks>
+            Crea una persona en la BD.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.PersonasController.Put(System.Int32,WebApiVentas.DTOs.PersonaPutDTO)">
+            <summary>
+            Actualiza una persona de la BD.
+            </summary>
+            <remarks>
+            Actualiza la persona segun ID
+            </remarks>
+            <param name="id">Id de persona.</param>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.PersonasController.Delete(System.Int32)">
+            <summary>
+            Borra una persona de la BD.
+            </summary>
+            <remarks>
+            Borra una persona según el ID indicado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.VentasController.Get(WebApiVentas.DTOs.PaginacionDTO)">
+            <summary>
+            Obtiene un listado de ventas.
+            </summary>
+            Las propiedades de las ventas estan acotadas a las requeridas por el modelo.
+            <returns></returns>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.VentasController.Get(System.Int32)">
+            <summary>
+            Obtiene una venta por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.VentasController.Post(WebApiVentas.DTOs.VentaCreacionDTO)">
+            <summary>
+            Crea una venta en la BD.
+            </summary>
+            <remarks>
+            Se solicitan los campos requeridos por el modelo.
+            </remarks>           
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.VentasController.Put(WebApiVentas.DTOs.VentaPutDTO,System.Int32)">
+            <summary>
+            Actualiza una venta de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Actualiza una venta según ID ingresado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V1.VentasController.Delete(System.Int32)">
+            <summary>
+            Borra una venta de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Borra una venta según el ID ingresado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.ArticulosController.Get">
+            <summary>
+            Obtiene un listado de artículos.
+            </summary>
+            Las propiedades de los artículos estan acotadas a las requeridas por el modelo.
+            <returns></returns>
+            
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.ArticulosController.GetxID(System.Int32)">
+            <summary>
+            Obtiene un artículo por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Devuelve el objeto solicitado o ID no encontrado.</response>    
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.ArticulosController.Post(WebApiVentas.DTOs.ArticuloCreacionDTO)">
+            <summary>
+            Crea un nuevo artículo en la BD.
+            </summary>
+            <remarks>
+            Se solicitan los campos requeridos por el modelo.
+            </remarks>
+            <param name="articulocreacionDTO">Objeto a crear en la BD.</param>            
+            <response code="201">Created. Objeto correctamente creado en la BD.</response>        
+            <response code="400">BadRequest. No se ha creado el objeto en la BD. Formato del objeto incorrecto.</response>
+            
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.ArticulosController.Put(System.Int32,WebApiVentas.DTOs.ArticuloPutDTO)">
+            <summary>
+            Actualiza un artículo de la BD.
+            </summary>
+            <remarks>
+            Actualiza el artículo segun ID
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Resultado de busqueda ID.</response> 
+            
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.ArticulosController.Delete(System.Int32)">
+            <summary>
+            Borra un artículo de la BD.
+            </summary>
+            <remarks>
+            Borra el artículo indicado en el ID
+            </remarks>
+            <param name="id">Id de artículo.</param>
+            <response code="401">Unauthorized. No se ha indicado o es incorrecto el Token JWT de acceso.</response>              
+            <response code="200">OK. Resultado de busqueda ID.</response> 
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.DetallesController.Get(System.Int32)">
+            <summary>
+            Obtiene detalles de una venta por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.DetallesController.GetxID(System.Int32,System.Int32)">
+            <summary>
+            Obtiene un detalle mediante su Id y el Id de venta.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.DetallesController.Post(System.Int32,WebApiVentas.DTOs.DetalleCreacionDTO)">
+            <summary>
+            Crea un nuevo detalle según el Id de Venta ingresado.
+            </summary>
+            <remarks>
+            
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.DetallesController.Put(WebApiVentas.DTOs.DetallePutDTO,System.Int32,System.Int32)">
+            <summary>
+            Actualiza un detalle de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Actualiza detalle de venta según ID.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.DetallesController.Delete(System.Int32,System.Int32)">
+            <summary>
+            Borra un detalle de la BD según el Id de venta y de Id de detalle ingresados.
+            </summary>
+            <remarks>
+            Borra el detalle según el ID ingresado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.PersonasController.Get">
+            <summary>
+            Obtiene un listado de personas
+            </summary>
+            Las propiedades de las personas estan acotadas a las requeridas por el modelo
+            <returns></returns>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.PersonasController.GetxID(System.Int32)">
+            <summary>
+            Obtiene una persona por su ID.
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <param name="id">Id de persona.</param>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.PersonasController.Post(WebApiVentas.DTOs.PersonaCreacionDTO)">
+            <summary>
+            Crea una persona en la BD.
+            </summary>
+            <remarks>
+            Crea una persona en la BD.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.PersonasController.Put(System.Int32,WebApiVentas.DTOs.PersonaPutDTO)">
+            <summary>
+            Actualiza una persona de la BD.
+            </summary>
+            <remarks>
+            Actualiza la persona segun ID
+            </remarks>
+            <param name="id">Id de persona.</param>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.PersonasController.Delete(System.Int32)">
+            <summary>
+            Borra una persona de la BD.
+            </summary>
+            <remarks>
+            Borra una persona según el ID indicado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.VentasController.Get">
+            <summary>
+            Obtiene un listado de ventas.
+            </summary>
+            Las propiedades de las ventas estan acotadas a las requeridas por el modelo.
+            <returns></returns>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.VentasController.GetxID(System.Int32)">
+            <summary>
+            Obtiene una venta por su Id.
+            </summary>
+            <remarks>
+            
+            </remarks>
+            
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.VentasController.Post(WebApiVentas.DTOs.VentaCreacionDTO)">
+            <summary>
+            Crea una venta en la BD.
+            </summary>
+            <remarks>
+            Se solicitan los campos requeridos por el modelo.
+            </remarks>           
+            
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.VentasController.Put(System.Int32,WebApiVentas.DTOs.VentaPutDTO)">
+            <summary>
+            Actualiza una venta de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Actualiza una venta según ID ingresado.
+            </remarks>
+        </member>
+        <member name="M:WebApiVentas.Controllers.V2.VentasController.Delete(System.Int32)">
+            <summary>
+            Borra una venta de la BD según el Id ingresado.
+            </summary>
+            <remarks>
+            Borra una venta según el ID ingresado.
+            </remarks>
+        </member>
+    </members>
+</doc>

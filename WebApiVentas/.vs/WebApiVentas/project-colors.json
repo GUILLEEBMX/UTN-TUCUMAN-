@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "841e2150-7f65-4845-8726-7af4e57680ee": {
+      "ProjectGuid": "841e2150-7f65-4845-8726-7af4e57680ee",
+      "DisplayName": "WebApiVentas",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "f73f421e-4637-43f0-b9ab-a1fde80a372a": {
+      "ProjectGuid": "f73f421e-4637-43f0-b9ab-a1fde80a372a",
+      "DisplayName": "WebApiVentas.Test",
+      "ColorIndex": 1
+    },
+    "87a75586-79c7-4aa4-903a-bcab2194bf2e": {
+      "ProjectGuid": "87a75586-79c7-4aa4-903a-bcab2194bf2e",
+      "DisplayName": "WebApiVentas.Test",
+      "ColorIndex": 2
+    },
+    "09b79769-be1c-44ce-a857-c498dc5f2b31": {
+      "ProjectGuid": "09b79769-be1c-44ce-a857-c498dc5f2b31",
+      "DisplayName": "WebApiVentas.TestPrueba",
+      "ColorIndex": 3
+    },
+    "bbc718ea-4dc6-43f7-a4c5-b3537dca60cb": {
+      "ProjectGuid": "bbc718ea-4dc6-43f7-a4c5-b3537dca60cb",
+      "DisplayName": "WebApiVentas.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

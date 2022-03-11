@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1573: El parámetro no tiene una etiqueta param coincidente en el comentario XML (pero otros parámetros sí)
+dotnet_diagnostic.CS1573.severity = silent

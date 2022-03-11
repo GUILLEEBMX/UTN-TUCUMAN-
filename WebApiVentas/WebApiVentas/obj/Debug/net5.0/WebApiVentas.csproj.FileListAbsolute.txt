@@ -1,0 +1,180 @@
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.AssemblyReference.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.AssemblyInfoInputs.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.AssemblyInfo.cs
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.CoreCompileInputs.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\ref\WebApiVentas.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\appsettings.Development.json
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\appsettings.json
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.exe
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.deps.json
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.runtimeconfig.json
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.runtimeconfig.dev.json
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\ref\WebApiVentas.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\AutoMapper.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Humanizer.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\staticwebassets\WebApiVentas.StaticWebAssets.Manifest.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\staticwebassets\WebApiVentas.StaticWebAssets.xml
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\scopedcss\bundle\WebApiVentas.styles.css
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.RazorTargetAssemblyInfo.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.CopyComplete
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.genruntimeconfig.cache
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\appsettings.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.exe
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.deps.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.runtimeconfig.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.runtimeconfig.dev.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\ref\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.AssemblyReference.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.AssemblyInfoInputs.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.AssemblyInfo.cs
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.CoreCompileInputs.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\staticwebassets\WebApiVentas.StaticWebAssets.Manifest.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\staticwebassets\WebApiVentas.StaticWebAssets.xml
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\scopedcss\bundle\WebApiVentas.styles.css
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.RazorTargetAssemblyInfo.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.csproj.CopyComplete
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\ref\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.genruntimeconfig.cache
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\appsettings.Development.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\appsettings.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.exe
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.deps.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.runtimeconfig.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.runtimeconfig.dev.json
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\ref\WebApiVentas.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\WebApiVentas.pdb
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\bin\Debug\net5.0\net5.0\JsonWebTokensWebApiCORE.xml
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.xml
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.xml
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\GUILLEE\Desktop\PROYECTOS LOCALES\Local Swagger\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Text.Json.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\WebApiVentas.xml
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Azure.Core.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Graph.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Memory.Data.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\bin\Debug\net5.0\System.Text.Json.dll
+D:\GIT REPOSITORY\WebApiVentas\WebApiVentas\obj\Debug\net5.0\WebApiVentas.xml
