@@ -1,0 +1,170 @@
+// SCHEMA PERSONAS
+
+/** 
+ * @swagger    
+ * components:
+ *  schemas:
+ *      Personas:
+ *          type: object
+ *          properties:
+ *              nombre:
+ *                  type: string
+ *                  description: Nombre de la persona
+ *              apellido:
+ *                  type: string
+ *                  description: Apellido de la persona
+ *              dni:
+ *                  type: integer
+ *                  description: DNI de la persona
+ *              telefono:
+ *                  type: string
+ *                  description: Telefono de la persona
+ *              email:
+ *                  type: string
+ *                  description: Email de la persona
+ *              domicilio:
+ *                  type: string
+ *                  description: Domicilio de la persona
+ *              nacimiento:
+ *                  type: string
+ *                  description: Fecha de nacimiento de la persona
+ *          required:
+ *              - nombre
+ *              - apellido
+ *              - dni
+ *              - telefono
+ *              - email
+ *              - domicilio
+ *              - nacimiento
+ *          example:
+ *              nombre: 
+ *              apellido:
+ *              dni:
+ *              telefono:
+ *              email:
+ *              domicilio:
+ *              nacimiento:
+ *              
+ */
+
+//GET
+
+/**
+ * @swagger
+ * /api/personas:
+ *  get:
+ *      summary: Obtener todas las personas de la BD
+ *      tags: [Personas]
+ *      responses:
+ *          200:
+ *              description: OK!  
+ *              content: 
+ *                  application/json:
+ *                      schema:
+ *                          type: array
+ *                          items:
+ *                              $ref: '#/components/schemas/Personas'
+ *                             
+ *                               
+ */
+
+//GETxID
+
+/**
+ * @swagger
+ * /api/personas/{id}:
+ *  get:
+ *      summary: Obtener una persona de la BD
+ *      tags: [Personas]
+ *      parameters:
+ *          -   in: path
+ *              name: id
+ *              schema:
+ *                  type: string    
+ *              required: true
+ *              description: Ingresar el ID de la persona   
+ *      responses:
+ *          200:
+ *              description: OK!  
+ *              content: 
+ *                  application/json:
+ *                      schema:
+ *                          type: object
+ *                          $ref: '#/components/schemas/Personas'
+ *      404:
+ *          description:Persona no encontrada en la BD
+ *                             
+ *                               
+ */
+
+//POST
+
+/** 
+ * @swagger    
+ * components:
+ *  schemas:
+ *      RoutePersonas:
+ *          type: object
+ *          properties:
+ *              Name:
+ *                  type: string
+ *                  description: the user name
+ *              Surname:
+ *                  type: string
+ *                  description: the user surname
+ *              DNI:
+ *                  type: integer
+ *                  description: the user DNI
+ *              Phone:
+ *                  type: string
+ *                  description: The people phone
+ *              Email:
+ *                  type: string
+ *                  description: The people email
+ *              Address:
+ *                  type: string
+ *                  description: The people address
+ *              Born Date:
+ *                  type: string
+ *                  description: The people birthay date
+ *          required:
+ *              - Name
+ *          example:
+ *              name: Guillee Britos
+ *              email: gbritos13@gmail.com
+ */
+
+//PUT
+
+/**
+ * @swagger
+ * /api/personas/{id}:
+ *  put:
+ *      summary: Actualizar una persona en la BD
+ *      tags: [Personas]
+ *      parameters:
+ *          -   in: path
+ *              name: id
+ *              schema:
+ *                  type: string    
+ *              required: true
+ *              description: Ingrese el ID de la persona 
+ *      requestBody:
+ *          required: true
+ *          content:
+ *              apllication/json:
+ *                  schema:
+ *                      type: object
+ *                      $ref: '#/components/schemas/Personas'
+ *      responses:
+ *          200:
+ *              description: UNA PERSONA HA SIDO ACTUALIZADA!
+ *          400:
+ *              description: Persona no encontrada en la BD
+ */
+
+
+
+
+
+
