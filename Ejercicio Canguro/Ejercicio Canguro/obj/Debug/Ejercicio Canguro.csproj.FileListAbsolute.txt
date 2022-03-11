@@ -1,7 +1,0 @@
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\bin\Debug\Ejercicio Canguro.exe.config
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\bin\Debug\Ejercicio Canguro.exe
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\bin\Debug\Ejercicio Canguro.pdb
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\obj\Debug\Ejercicio Canguro.csprojAssemblyReference.cache
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\obj\Debug\Ejercicio Canguro.csproj.CoreCompileInputs.cache
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\obj\Debug\Ejercicio Canguro.exe
-C:\Users\Terminal\source\repos\Ejercicio Canguro\Ejercicio Canguro\obj\Debug\Ejercicio Canguro.pdb
